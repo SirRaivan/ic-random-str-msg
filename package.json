@@ -1,0 +1,27 @@
+{
+  "name": "ic-random-str-msg",
+  "version": "1.0.0",
+  "description": "Ramdom String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirRaivan/ic-random-str-msg.git"
+  },
+  "keywords": [],
+  "author": "Ivan Cio <ivanarturo.cio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SirRaivan/ic-random-str-msg/issues"
+  },
+  "homepage": "https://github.com/SirRaivan/ic-random-str-msg#readme",
+  "bin": {
+    "ic-random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
